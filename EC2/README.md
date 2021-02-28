@@ -1,0 +1,1 @@
+https://www.cidevops.com/2018/06/terraform-files-for-provisioning-ec2.html
